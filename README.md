@@ -1,1 +1,1 @@
-# patikaWorkshop
+#  patika workshop geliştirme 
